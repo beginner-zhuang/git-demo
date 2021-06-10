@@ -9,8 +9,8 @@ hello git1
 hello git1 hot-fix second update
 hello git1 hot-fix second update 
 hello git1
-hello git1
-hello git1
+hello git1 master second update 
+hello git1 master second update
 hello git1
 hello git1
 hello git1
