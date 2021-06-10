@@ -2,12 +2,12 @@ hello git1 1111111111
 hello git1  
 hello git1 hot-fix update
 hello git1 hot-fix update
+hello git1 
+hello git1 master update
+hello git1 master update
 hello git1
-hello git1
-hello git1
-hello git1
-hello git1
-hello git1
+hello git1 hot-fix second update
+hello git1 hot-fix second update 
 hello git1
 hello git1
 hello git1
